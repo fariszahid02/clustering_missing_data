@@ -10,3 +10,10 @@ relationships between these discovered clusters. The clustering outcomes were ev
 and interactive visualizations, enabling dynamic exploration of missingness patterns. The results 
 demonstrate clustering as an effective tool for uncovering missing data patterns and enhancing better 
 decisions regarding data quality and handling.
+
+
+--- 
+
+Read full documentation below:
+
+[Documentation.pdf](https://github.com/user-attachments/files/25004004/Documentation.pdf)
